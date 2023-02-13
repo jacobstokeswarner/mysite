@@ -1,21 +1,42 @@
+.title-text{
+    color:#EEEEEE;
+}
+
 body{
     margin: 0;
     text-align: center;
+    font-family: 'Handlee', cursive;
+    background-color: #476269;
 }
 
 h1{
     color: #DEFCF9;
-    margin: 0 auto;
+    margin: 0 auto 20px auto;
+    font-family: 'Arizonia', cursive;
+}
+
+.profile{
+    width: 300px;
+}
+
+h2{
+    color:#e1edf9;
+    font-family: 'Coming Soon', cursive;
+}
+
+h3{
+    color:#a1b6cc;
+    font-family: 'Coming Soon', cursive;
 }
 
 p{
-    color: #DEFCF9;
+    color: #EEEEEE;
     margin: 0 auto;
 }
 
 .top-container{
     padding-top: 100px;
-    background-color:#3C84AB;
+    background-color:#73A9AD;
     position:relative;
 
 }
@@ -23,11 +44,11 @@ p{
 .middle-container{
     height: 200px;
     margin:0 auto;
-    background-color:#85CDFD;
+    background-color:#476269;
 }
 .bottom-container{
     height: 200px;
-    background-color: blue;
+    background-color: #476269;
     margin:0 auto;
 }
 
