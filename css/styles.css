@@ -1,15 +1,15 @@
-.title-text{
-    color:#EEEEEE;
+.title-text {
+    color: #EEEEEE;
     margin-bottom: 0;
 }
 
-.title-subtext{
-    color:#EEEEEE;
+.title-subtext {
+    color: #EEEEEE;
     font-size: 2.5rem;
     margin-top: 0;
 }
 
-body{
+body {
     margin: 0;
     text-align: center;
     font-family: 'Handlee', cursive;
@@ -17,74 +17,102 @@ body{
     font-size: 1rem;
 }
 
-h1{
+h1 {
     color: #DEFCF9;
     margin: 0 auto;
     font-family: 'Arizonia', cursive;
     font-size: 5.625rem;
 }
 
-.profile{
+.profile {
     width: auto;
-    margin:0 auto;
+    margin: 0 auto;
 }
 
-h2{
-    color:#e1edf9;
+h2 {
+    color: #e1edf9;
     font-family: 'Coming Soon', cursive;
     font-size: 2.5rem;
-    margin-bottom:0;
+    margin-bottom: 0;
     font-weight: bold;
 }
 
-h3{
-    color:#a1b6cc;
+h3 {
+    color: #a1b6cc;
     font-family: 'Coming Soon', cursive;
 }
 
-p{
+p {
     color: #EEEEEE;
     margin: 0 auto;
 }
 
-.top-container{
+.top-container {
     padding-top: 100px;
-    background-color:#7286D3;
-    position:relative;
+    background-color: #7286D3;
+    position: relative;
     margin: 0 auto 0 auto;
 
 }
 
-.middle-container{
-}
-.bottom-container{
+.middle-container {}
 
-}
+.bottom-container {}
 
 
-.pro{
+.pro {
     text-decoration: underline;
 }
 
-.bottom-cloud{
-    position:absolute;
-    left:700px;
-    bottom:300px;
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
 }
 
-.top-cloud{
-    position:absolute;
-    right:700px;
-    top:50px;
+.bottom-cloud {
+    position: absolute;
+    left: 700px;
+    bottom: 300px;
 }
 
-a{
-    color:darkgrey;
+.top-cloud {
+    position: absolute;
+    right: 700px;
+    top: 50px;
+    
 }
 
-hr{
-    color:#7286d3;
-    width:300px;
+.python{
+    float:right;
+    margin-left:20px;
 }
 
+.csharp{
+    float:right;
+    margin-left: 20px;
+}
+
+.html{
+    float: left;
+}
+
+.css{
+    float: left;
+}
+
+.js{
+    float: left;
+    margin-right: 20px;
+}
+
+a {
+    color: darkgrey;
+}
+
+hr {
+    color: #7286d3;
+    width: 300px;
+}
 
