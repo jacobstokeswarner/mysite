@@ -7,16 +7,18 @@ body{
     text-align: center;
     font-family: 'Handlee', cursive;
     background-color: #476269;
+    font-size: 1rem;
 }
 
 h1{
     color: #DEFCF9;
     margin: 0 auto;
     font-family: 'Arizonia', cursive;
+    font-size: 5.625rem;
 }
 
 .profile{
-    width: 300px;
+    width: auto;
     margin:0 auto;
 }
 
@@ -37,9 +39,9 @@ p{
 
 .top-container{
     padding-top: 100px;
-    background-color:#73A9AD;
+    background-color:#7286D3;
     position:relative;
-    margin: 0 auto;
+    margin: 0 auto 0 auto;
 
 }
 
@@ -48,6 +50,7 @@ p{
 .bottom-container{
 
 }
+
 
 .pro{
     text-decoration: underline;
@@ -68,3 +71,10 @@ p{
 a{
     color:darkgrey;
 }
+
+hr{
+    color:#7286d3;
+    width:300px;
+}
+
+
