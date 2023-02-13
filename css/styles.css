@@ -1,13 +1,48 @@
-div{
-    background-color: #DEFCF9;
-    margin-top:0;
-}
-
 body{
     margin: 0;
+    text-align: center;
 }
 
-h1,p{
-    color: #3C84AB;
-    margin-top:0;
+h1{
+    color: #DEFCF9;
+    margin: 0 auto;
+}
+
+p{
+    color: #DEFCF9;
+    margin: 0 auto;
+}
+
+.top-container{
+    padding-top: 100px;
+    background-color:#3C84AB;
+    position:relative;
+
+}
+
+.middle-container{
+    height: 200px;
+    margin:0 auto;
+    background-color:#85CDFD;
+}
+.bottom-container{
+    height: 200px;
+    background-color: blue;
+    margin:0 auto;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.bottom-cloud{
+    position:absolute;
+    left:700px;
+    bottom:300px;
+}
+
+.top-cloud{
+    position:absolute;
+    right:700px;
+    top:50px;
 }
