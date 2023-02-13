@@ -17,6 +17,7 @@ h1{
 
 .profile{
     width: 300px;
+    margin:0 auto;
 }
 
 h2{
@@ -38,18 +39,14 @@ p{
     padding-top: 100px;
     background-color:#73A9AD;
     position:relative;
+    margin: 0 auto;
 
 }
 
 .middle-container{
-    height: 200px;
-    margin:0 auto;
-    background-color:#476269;
 }
 .bottom-container{
-    height: 200px;
-    background-color: #476269;
-    margin:0 auto;
+
 }
 
 .pro{
@@ -66,4 +63,8 @@ p{
     position:absolute;
     right:700px;
     top:50px;
+}
+
+a{
+    color:darkgrey;
 }
